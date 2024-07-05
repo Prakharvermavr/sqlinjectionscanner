@@ -1,0 +1,8 @@
+First you need to install the some libraries
+1. request for sending HTTP requests
+2. BeautifulSoup for parsing HTML content
+3. re for regular expressions
+
+# Then write this command instead
+pip install requests beautifulsoup4
+
